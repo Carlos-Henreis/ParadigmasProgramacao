@@ -8,9 +8,9 @@ Para a solução do problema usando o paradigma de Orientação objeto foi escol
 
 A linguagem Java foi projetada tendo em vista os seguintes objetivos:
 
-*Orientação a objeto
-*Portabilidade - Independência de plataforma
-*Recursos de Rede
-*Segurança
+* Orientação a objeto
+* Portabilidade - Independência de plataforma
+* Recursos de Rede
+* Segurança
 
 
